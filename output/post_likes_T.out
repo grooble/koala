@@ -1,0 +1,2 @@
+["likes", {"data"=>[], "paging"=>{"cursors"=>{"before"=>"MTAyMDMyMjI1MjA1NTEzNDYZD", "after"=>"MjQ1MzUyMzI1ODI4MjQx"}, "next"=>"https://graph.facebook.com/v2.5/1851159494903766/likes?access_token=EAACEdEose0cBAGxq9yRfLlsuE0nb6MBPwkTNCZAvwob3zmyq2WLC31kOGr0qhJtJPaRqV82AECyr7fN6X0d19M8ABZAJPFdJRj1Wb0mOzQM0Qknd24jKzoACn2Ud0ytIPS0ZALLqZC5VvxvjtXUZBrjaGpnPtkI2TrjRv9obGp2esqPQf7ub7By54gOIecHNwZBigIk1dZCg5z3WlZAfxpdw&summary=1&limit=25&after=MjQ1MzUyMzI1ODI4MjQx"}, "summary"=>{"total_count"=>667, "can_like"=>true, "has_liked"=>true}}]
+["id", "1851159494903766"]
